@@ -2,3 +2,7 @@ hiiiiiiii
 
 This change is made when 
 	in the master branch
+
+
+
+This is the contrent from the master branch
