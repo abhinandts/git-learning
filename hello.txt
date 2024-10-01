@@ -6,3 +6,7 @@ This change is made when
 
 
 This is the contrent from the master branch
+
+
+october 1 
+	change from master branch
